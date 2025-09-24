@@ -1448,9 +1448,3 @@ body {
   font-weight: bold;
   color: #e6b800;
 }
-
-/* Evitar que la pantalla se mueva en móvil */
-html, body {
-  overflow-x: hidden;
-  max-width: 100%;
-}
